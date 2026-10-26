@@ -1,0 +1,6 @@
+{
+  "name": "ATC Huzurnagar",
+  "description": "Student hub for Advanced Training Centre ITI Huzurnagar: attendance, daily classes, routine, study materials, bilingual English & Telugu support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
